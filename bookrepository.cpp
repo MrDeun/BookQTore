@@ -35,10 +35,6 @@ void BookRepository::addBook(QSqlQuery &q, const QString &author,
 }
 
 void BookRepository::removeBook(QSqlQuery &q, int id) {
-    const auto
-
-
-
   const auto query =
       QString("DELETE FROM books WHERE id = %1;").arg(QString::number(id));
   if (!q.exec(query)) {
