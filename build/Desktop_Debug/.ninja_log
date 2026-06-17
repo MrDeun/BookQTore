@@ -1,0 +1,18 @@
+# ninja log v7
+2	385	1781728019004219189	BookStore_autogen/timestamp	549a9199f78a65b9
+2	385	1781728019004219189	BookStore_autogen/mocs_compilation.cpp	549a9199f78a65b9
+2	385	1781728019004219189	/home/mrdeun/Workspace/BookQTore/build/Desktop_Debug/BookStore_autogen/timestamp	549a9199f78a65b9
+2	385	1781728019004219189	/home/mrdeun/Workspace/BookQTore/build/Desktop_Debug/BookStore_autogen/mocs_compilation.cpp	549a9199f78a65b9
+389	1649	1781728019021321410	CMakeFiles/BookStore.dir/book.cpp.o	705f668db3eed7f
+390	2083	1781728019021758981	CMakeFiles/BookStore.dir/person.cpp.o	6ecb471fb4aac216
+390	2637	1781728019021603987	CMakeFiles/BookStore.dir/personrepository.cpp.o	8ff7eb603a4fb5ab
+390	2690	1781728019022066375	CMakeFiles/BookStore.dir/borrowing_repository.cpp.o	f4e14a466bf1cdc3
+390	3034	1781728019022217302	CMakeFiles/BookStore.dir/addpersondialog.cpp.o	f50bdb806e238815
+390	3075	1781728019021911872	CMakeFiles/BookStore.dir/addbookdialog.cpp.o	8a20c71935f7d0af
+389	3083	1781728019021052810	CMakeFiles/BookStore.dir/main.cpp.o	8381998437f2a463
+389	4948	1781728019021451778	CMakeFiles/BookStore.dir/bookrepository.cpp.o	a5c63e158cebe797
+391	5062	1781728019022219614	CMakeFiles/BookStore.dir/returnbookdialog.cpp.o	32911901864d490a
+389	5079	1781728019020219567	CMakeFiles/BookStore.dir/BookStore_autogen/mocs_compilation.cpp.o	bb1cb2d9496dcbe
+392	5108	1781728019023671314	CMakeFiles/BookStore.dir/borrowbookdialog.cpp.o	5aff0e70ff326d8f
+389	5377	1781728019021184881	CMakeFiles/BookStore.dir/main_window.cpp.o	ca7bbb74449d6636
+5377	5678	1781728024008337323	BookStore	3410a8022b24d13f

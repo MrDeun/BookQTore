@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_BookStore_FILE /home/mrdeun/Workspace/BookQTore/build/Desktop_Debug/BookStore)
+set(__QT_DEPLOY_TARGET_BookStore_TYPE EXECUTABLE)
